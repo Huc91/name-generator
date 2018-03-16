@@ -1,4 +1,4 @@
-# name-generator for Associazione Culturare Umanesimo Digitale
+# name-generator for Associazione Culturare Umanesimo Artificiale
 
 # name-generator
 This project provides a random project name generator based off of a python script reading a word dictionary
